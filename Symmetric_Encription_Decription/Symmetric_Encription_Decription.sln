@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symmetric_Encription_Decription", "Symmetric_Encription_Decription\Symmetric_Encription_Decription.csproj", "{22314E76-A91B-4496-8148-845F00D0EDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22314E76-A91B-4496-8148-845F00D0EDFA}.Debug|x86.ActiveCfg = Debug|x86
+		{22314E76-A91B-4496-8148-845F00D0EDFA}.Debug|x86.Build.0 = Debug|x86
+		{22314E76-A91B-4496-8148-845F00D0EDFA}.Release|x86.ActiveCfg = Release|x86
+		{22314E76-A91B-4496-8148-845F00D0EDFA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
